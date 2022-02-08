@@ -30,7 +30,7 @@ export default function Header() {
                 <Flex sx={styles.buttonGroup}>
                   <Button variant="text" sx={styles.login}>
                     <Image src={lock} width="19" height="23" alt="lock icon" />
-                    Login
+                    LOGIN NOW
                   </Button>
                   <Button variant="primary" sx={styles.donateNow}>
                     Donate
